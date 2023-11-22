@@ -110,5 +110,14 @@
       "timesheet"
     ],
     "path": "groups/timesheet/manifest.json"
+  },
+  {
+    "group": "Cards",
+    "icon": "fa fa-id-card",
+    "tags": [
+      "template",
+      "cards"
+    ],
+    "path": "groups/cards/manifest.json"
   }
 ]

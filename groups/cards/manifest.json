@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "name": "card 1",
+      "description": "Simple page layout with 2 columns",
+      "banner": "assets//Card1.png",
+      "data": "components/card1.json"
+    },
+    {
+      "name": "card 2",
+      "description": "Simple page layout with 3 columns",
+      "banner": "assets/Card2.png",
+      "data": "components/card2.json"
+    },
+    {
+      "name": "card 3",
+      "description": "Simple page layout with 4 columns",
+      "banner": "assets/Card3.png",
+      "data": "components/card3.json"
+    }
+  ]
+}
